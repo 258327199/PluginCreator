@@ -5,9 +5,13 @@ An UE4 plugin wizard that allows user to create basic plugin setup in just a few
 This is a plugin write by Karolz,and the before version has  some bugs.
 But the unreal eninge 4.7.0, i just have tested ,it is ok,and easy to use.
 
-I think u must love it.It can easy to creat a plugin,without doing to much operator.
+I think u must love it.It can easy to creat a plugin,without doing too much operator.
 There are three different choices for u ,and if you like to show the button or the unreal eidtor u can just use Advanced mode.
 
 It is very useful for the new plugin starter.
+
+Now here is how to use the plugin.
+
+http://blog.csdn.net/cartzhang/article/details/45644007
 
 Good Luck!
