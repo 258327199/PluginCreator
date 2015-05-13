@@ -17,5 +17,5 @@ http://blog.csdn.net/cartzhang/article/details/45644007
 Good Luck!
 ------------
 In the version 4.8 Preview,this plugin was as Plugin Creation Wizard.
-I think in the future,the plugin is more and more better to use for all of us!
+I think in the future,the plugin will be more and more better and easier to use for all of us!
 
